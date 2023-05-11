@@ -1,5 +1,5 @@
-import { Route, Routes } from "react-router";
 import { Cards, HomePage } from "../Pages/index";
+import { Route, Routes } from "react-router";
 
 export const App = () => {
   return (
